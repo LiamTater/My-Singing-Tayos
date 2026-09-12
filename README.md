@@ -10,7 +10,7 @@ Same mechanics as My Singing Monsters, but everyone is a Tayo character.
 ## Mechanics
 
 ### Breeding
-Same functionality as My Singing Monster
+Same functionality as My Singing Monsters.
 
 ### Teleporting
 Teleport Tayo characters to other islands.
