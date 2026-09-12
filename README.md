@@ -1,8 +1,8 @@
 # My-Singing-Tayos
-My Singing Monsters but Tayo
+My Singing Monsters, but Tayo
 
 # game & show inspirations
-My Singing Monsters, Tayo
+My Singing Monsters, and Tayo
 
 # Gameplay
 Same mechanics as My Singing Monsters, but everyone is a Tayo character.
