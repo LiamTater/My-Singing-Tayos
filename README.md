@@ -18,6 +18,15 @@ Tayo + Small
 ##### Iracha
 Tayo + Gani
 
+##### Small
+Tayo + Lani
+
+##### Tiny
+Iracha + Small
+
+##### Oli
+Rogi + Small
+
 ### Teleporting
 Teleport Tayo characters to other islands.
 
