@@ -11,12 +11,23 @@ Same mechanics as My Singing Monsters, but everyone is a Tayo character.
 
 ### Breeding
 Same functionality as My Singing Monsters.
+
 #### Breeding combinations
+
 ##### Bongbong
 Tayo + Small
 
 ##### Iracha
 Tayo + Gani
+
+##### Small
+Tayo + Lani
+
+##### Tiny (Epic Iracha)
+Iracha + Small
+
+##### Oli
+Rogi + Small
 
 ### Teleporting
 Teleport Tayo characters to other islands.
